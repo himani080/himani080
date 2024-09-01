@@ -6,17 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani080" alt="himani080" /></a> </p>
 
 - 🔭 I’m currently working on [Crowd Counting](https://github.com/himanshuchopade97/Crowd-Counting)
-
 - 🌱 I’m currently learning **Advanced Machine Learning Techniques and React Hooks**
-
 - 👨‍💻 All of my projects are available at [https://github.com/himani080](https://github.com/himani080)
-
 - 💬 Ask me about **Backend Development, Node.js, and AI Integration**
-
 - 📫 How to reach me **arorahimani080@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/himani-arora-183784253/](https://www.linkedin.com/in/himani-arora-183784253/)
-
 - ⚡ Fun fact **I love learning about the latest tech trends!**
 
 ### 🏆 Achievements
@@ -100,5 +94,3 @@ Thanks for stopping by my profile! Feel free to connect or reach out if you’d 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himani080&show_icons=true&locale=en&layout=compact" alt="himani080" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himani080&show_icons=true&locale=en" alt="himani080" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himani080&" alt="himani080" /></p>
